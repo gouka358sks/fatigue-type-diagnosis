@@ -310,9 +310,9 @@ function FatigueApp() {
             <span style={styles.introTitleAccent}>体質診断</span>
           </h1>
           <p style={styles.introDesc}>
-            30代後半〜40代の「なんとなく不調」は
+            更年期の「なんとなく不調」は
             <br />
-            気合い不足ではありません。
+            気合いで乗り切るものではありません。
             <br />
             <br />
             8タイプ × 各5問の質問に答えて
